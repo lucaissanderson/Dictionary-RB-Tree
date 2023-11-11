@@ -1,4 +1,4 @@
-# pa8 : Dictionary ADT - RB Tree Edition
+# Dictionary ADT - RB Tree Edition
 
 ## Files:
 
